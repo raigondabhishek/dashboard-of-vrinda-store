@@ -1,13 +1,6 @@
 # dashboard-of-vrinda-store
-converted a huge data of vrinda store in A systematically understandable dashboards visualizations data analysis by using MS excel, pivot table
-#Question (KPIs?) 
-- compare the sales and orders using single chart
+The Vrinda store wants to create an annual sales report for 2022. So that, the owner of the vrinda store can understand their customers and grow more sales
 
-- which month got the highest sales and orders
-- who purchased more men or women
-- what are the different order status
-- list top five states contributing to the sales
-- relation between age and gender based on number of orders
-- which channel is contributing maximum to the sales
-- highest selling category
-- percentage of Total Orders delivered
+
+## dataset used
+- <a href="https://github.com/raigondabhishek/dashboard-of-vrinda-store/blob/main/Vrinda%20Store%20Data%20Analysis%20(1).xlsx">Dataset</a>
